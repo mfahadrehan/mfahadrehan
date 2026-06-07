@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/fahad-rehan-ba036b28a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mfahadrehan)
+[![Portfolio](https://img.shields.io/badge/Fake_News_Detector-Live_Demo-brightgreen?style=flat)](https://fake-news-detector-r2a4.onrender.com)
 
 ---
 
@@ -66,7 +67,7 @@ Final Year Software Engineering student at **Lahore Garrison University** with h
 
 ---
 
-### 📰 [Fake News Detector](https://github.com/mfahadrehan/Fake_News_Detector) — [Live Demo](https://your-render-link.onrender.com)
+### 📰 [Fake News Detector](https://github.com/mfahadrehan/Fake_News_Detector)
 > NLP classifier with 93% accuracy · deployed on Render
 
 - TF-IDF + Logistic Regression · Flask web app · Bootstrap UI
@@ -101,7 +102,7 @@ Final Year Software Engineering student at **Lahore Garrison University** with h
 **Software Engineer Intern** · Bitbash/Inertia · Lahore *(Feb 2026 – May 2026)*
 - Built Upwork Discord bot, Spotify automation platform, AI dashboard automation, crypto tracker
 
-**AI/ML Intern** · DevelopersHub Corporation · Virtual *(May 2025 – Jul 2025)*  
+**AI/ML Intern** · DevelopersHub Corporation · Virtual *(May 2025 – Jul 2025)*
 - Fake news detection (93% acc), customer segmentation, sentiment analysis · **Best Award in AI & ML**
 
 ---
@@ -113,8 +114,6 @@ Final Year Software Engineering student at **Lahore Garrison University** with h
 ---
 
 ## 📊 GitHub Stats
-
-![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfahadrehan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mfahadrehan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
