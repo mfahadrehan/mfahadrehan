@@ -114,8 +114,9 @@ Final Year Software Engineering student at **Lahore Garrison University** with h
 
 ## 📊 GitHub Stats
 
-![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfahadrehan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadrehan&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfahadrehan&show_icons=true&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mfahadrehan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
