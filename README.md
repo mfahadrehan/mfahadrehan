@@ -5,13 +5,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/fahad-rehan-ba036b28a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mfahadrehan)
-[![Portfolio](https://img.shields.io/badge/Fake_News_Detector-Live_Demo-brightgreen?style=flat)](https://fake-news-detector-r2a4.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel&logoColor=white)](https://github.com/mfahadrehan)
 
 ---
 
 ## 🧠 About Me
 
-Final Year Software Engineering student at **Lahore Garrison University** with hands-on experience building AI/ML systems, full-stack web apps, and automation tools. Co-developer of **ImmunoAI** — a hybrid diagnostic AI system for rare autoimmune diseases. Two internships, real deployments, real impact.
+Software Engineering graduate from **Lahore Garrison University** with hands-on experience building AI/ML systems, full-stack web apps, and automation tools. Co-developer of **ImmunoAI** — a hybrid diagnostic AI system for rare autoimmune diseases. Two internships, real deployments, real impact.
 
 - 🔬 Specializing in **Medical AI, NLP, and ML deployment**
 - ⚙️ Love building things end-to-end: model → API → frontend
@@ -22,7 +22,7 @@ Final Year Software Engineering student at **Lahore Garrison University** with h
 
 ## 🚀 Featured Projects
 
-### 🧬 [ImmunoAI](https://github.com/alyhassan23/IMMUNOAI) — Hybrid AI Diagnostic System
+### 🧬 [ImmunoAI](https://github.com/mfahadrehan/IMMUNOAI) — Hybrid AI Diagnostic System
 > Multimodal Clinical Decision Support System for Autoimmune Diseases
 
 - **97.92%** MRI vision accuracy · **93%** fusion model accuracy · **81.56%** tabular accuracy
@@ -33,20 +33,21 @@ Final Year Software Engineering student at **Lahore Garrison University** with h
 
 ---
 
-### 🎵 [Spotify Automation Platform](https://github.com/mfahadrehan/SpotifyAutomationPlatform)
+### 📈 [Crypto Surveillance System](https://github.com/mfahadrehan/crypto-surveillance-system) · [🔴 Live](https://crypto-surveillance-system.vercel.app)
+> Real-time cryptocurrency surveillance — Express engine polls CoinGecko, detects flash crashes
+
+- TypeScript full-stack · Prisma ORM · JWT auth · Playwright E2E tests · GitHub Actions CI/CD
+- Real-time flash crash detection · price alerts · watchlists · Next.js dashboard
+- `TypeScript` `Next.js` `Express` `PostgreSQL` `Prisma` `Railway`
+
+---
+
+### 🎵 [Spotify Automation Platform](https://github.com/mfahadrehan/SpotifyAutomationPlatform) · [🔴 Live](https://spotify-automation-platform.vercel.app)
 > Full-stack automation: FastAPI backend ↔ React dashboard ↔ Android APK via WebSocket
 
 - Production-grade async FastAPI backend (JWT auth, bcrypt, IP rate limiting, aiosqlite)
 - 16 automation actions · campaign engine · real-time device communication
 - `FastAPI` `React` `WebSocket` `Android` `JWT` `Python`
-
----
-
-### 📈 [Crypto Dashboard](https://github.com/mfahadrehan/crypto-dashboard)
-> Real-time cryptocurrency tracker with alerts, watchlists, and E2E tests
-
-- TypeScript full-stack · Prisma ORM · JWT auth · Playwright E2E tests · GitHub Actions CI/CD
-- `TypeScript` `React` `Node.js` `Prisma` `Playwright`
 
 ---
 
@@ -67,7 +68,15 @@ Final Year Software Engineering student at **Lahore Garrison University** with h
 
 ---
 
-### 📰 [Fake News Detector](https://github.com/mfahadrehan/Fake_News_Detector)
+### 🎬 [Movie Review Sentiment Analyzer](https://github.com/mfahadrehan/Movie-Review-Sentiment-Analysis) · [🔴 Live](https://movie-review-sentiment-analysis-one.vercel.app)
+> NLP sentiment classifier with interactive web UI · 85% accuracy
+
+- Naïve Bayes classifier · TF-IDF vectorizer · Flask API · deployed on Vercel
+- `Python` `Flask` `Scikit-learn` `NLP` `Vercel`
+
+---
+
+### 📰 [Fake News Detector](https://github.com/mfahadrehan/Fake_News_Detector) · [🔴 Live](https://fake-news-detector-r2a4.onrender.com)
 > NLP classifier with 93% accuracy · deployed on Render
 
 - TF-IDF + Logistic Regression · Flask web app · Bootstrap UI
@@ -84,32 +93,32 @@ Final Year Software Engineering student at **Lahore Garrison University** with h
 `LangChain` `Pinecone` `Groq API (Llama-3-70b)` `OpenCV` `HuggingFace`
 
 **Backend**
-`Python` `Django REST Framework` `FastAPI` `Flask` `PostgreSQL` `MySQL` `JWT Auth`
+`Python` `Django REST Framework` `FastAPI` `Flask` `Node.js` `Express` `PostgreSQL` `MySQL` `JWT Auth`
 
 **Frontend**
-`React 18` `TypeScript` `Tailwind CSS` `Vite` `HTML/CSS/JS`
+`React 18` `Next.js` `TypeScript` `Tailwind CSS` `Vite` `HTML/CSS/JS`
 
 **Automation**
-`Selenium` `Discord.py` `Electron` `Appilot` `Browser Automation` `REST APIs`
+`Selenium` `Discord.py` `Electron` `Appilot` `Browser Automation` `REST APIs` `curl-cffi`
 
 **DevOps & Tools**
-`Git` `GitHub` `Docker` `Render` `Google Colab` `Postman` `VS Code`
+`Git` `GitHub` `Docker` `Vercel` `Railway` `Render` `Google Colab` `Postman`
 
 ---
 
 ## 💼 Experience
 
 **Software Engineer Intern** · Bitbash/Inertia · Lahore *(Feb 2026 – May 2026)*
-- Built Upwork Discord bot, Spotify automation platform, AI dashboard automation, crypto tracker
+- Built Upwork Discord bot with Cloudflare bypass, Spotify automation platform, AI automation dashboard, and crypto surveillance system
 
 **AI/ML Intern** · DevelopersHub Corporation · Virtual *(May 2025 – Jul 2025)*
-- Fake news detection (93% acc), customer segmentation, sentiment analysis · **Best Award in AI & ML**
+- Fake news detection (93% acc), customer segmentation, sentiment analysis · **🏆 Best Award in AI & ML**
 
 ---
 
 ## 🎓 Education
 
-**BSc Software Engineering** · Lahore Garrison University *(2022 – 2026)*
+**BSc Software Engineering** · Lahore Garrison University *(2022 – 2026)* · Graduated
 
 ---
 
