@@ -76,7 +76,7 @@ Software Engineering graduate from **Lahore Garrison University** with hands-on 
 
 ---
 
-### 📰 [Fake News Detector](https://github.com/mfahadrehan/Fake_News_Detector) · [🔴 Live](https://fake-news-detector-r2a4.onrender.com)
+### 📰 [Fake News Detector](https://github.com/mfahadrehan/Fake_News_Detector) · [🔴 Live]([https://fake-news-detector-r2a4.onrender.com](https://fake-news-detector-tawny-nine.vercel.app)
 > NLP classifier with 93% accuracy · deployed on Render
 
 - TF-IDF + Logistic Regression · Flask web app · Bootstrap UI
