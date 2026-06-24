@@ -5,7 +5,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/fahad-rehan-ba036b28a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mfahadrehan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel&logoColor=white)](https://github.com/mfahadrehan)
+[![Fake News Detector](https://img.shields.io/badge/Fake_News_Detector-Live-brightgreen?style=flat&logo=vercel&logoColor=white)](https://fake-news-detector-tawny-nine.vercel.app)
+[![Movie Sentiment](https://img.shields.io/badge/Sentiment_Analyzer-Live-brightgreen?style=flat&logo=vercel&logoColor=white)](https://movie-review-sentiment-analysis-one.vercel.app)
+[![Crypto](https://img.shields.io/badge/Crypto_Surveillance-Live-brightgreen?style=flat&logo=vercel&logoColor=white)](https://crypto-surveillance-system.vercel.app)
+[![Spotify](https://img.shields.io/badge/Spotify_Automation-Live-brightgreen?style=flat&logo=vercel&logoColor=white)](https://spotify-automation-platform.vercel.app)
 
 ---
 
@@ -76,8 +79,8 @@ Software Engineering graduate from **Lahore Garrison University** with hands-on 
 
 ---
 
-### 📰 [Fake News Detector](https://github.com/mfahadrehan/Fake_News_Detector) · [🔴 Live]([https://fake-news-detector-r2a4.onrender.com](https://fake-news-detector-tawny-nine.vercel.app)
-> NLP classifier with 93% accuracy · deployed on Render
+### 📰 [Fake News Detector](https://github.com/mfahadrehan/Fake_News_Detector) · [🔴 Live](https://fake-news-detector-tawny-nine.vercel.app)
+> NLP classifier with 93% accuracy · deployed on Vercel
 
 - TF-IDF + Logistic Regression · Flask web app · Bootstrap UI
 - `Python` `Flask` `Scikit-learn` `NLP`
