@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/fahad-rehan-ba036b28a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mfahadrehan)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-fahadrehan.vercel.app-brightgreen?style=flat&logo=vercel&logoColor=white)](https://fahadrehan.vercel.app)
 
 ---
 
