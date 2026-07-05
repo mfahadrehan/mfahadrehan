@@ -165,9 +165,9 @@ Software Engineering graduate with hands-on experience building **AI/ML systems*
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mfahadrehan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfahadrehan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/mfahadrehan)
+[![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfahadrehan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)](https://github.com/mfahadrehan)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadrehan&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mfahadrehan)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadrehan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8)](https://github.com/mfahadrehan)
 
 </div>
 
@@ -188,6 +188,6 @@ Software Engineering graduate with hands-on experience building **AI/ML systems*
 
 *Lahore, Pakistan · Remote Worldwide*
 
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-fahadrehan.vercel.app-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://fahadrehan.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-fahadrehan.vercel.app-00d4ff?style=for-the-badge)](https://fahadrehan.vercel.app)
 
 </div>
