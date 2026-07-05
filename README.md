@@ -119,7 +119,21 @@ Software Engineering graduate from **Lahore Garrison University** with hands-on 
 
 ## 🎓 Education
 
-**BSc Software Engineering** · Lahore Garrison University *(2022 – 2026)* · Graduated
+| Degree | Institution | Year |
+|--------|-------------|------|
+| B.Sc. Software Engineering | Lahore Garrison University | 2022 – 2026 |
+| Intermediate (ICS) | Govt. Islamia College, Civil Lines, Lahore | 2020 – 2022 |
+| Matriculation (Science) | Eden Rose The School System, Lahore | 2018 – 2020 |
+
+---
+
+## 🏆 Certifications & Awards
+
+- 🥇 **Best Award in AI & Machine Learning** — DevelopersHub Corporation *(2025)*  
+  Awarded for engineering highly accurate ML models and deploying them to live cloud environments
+
+- 🤖 **Indigenous Robotics Workshop 8.0** — GEARS Society, Lahore Garrison University *(Dec 2024)*  
+  Certificate of Participation for completing the robotics training workshop
 
 ---
 
