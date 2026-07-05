@@ -17,6 +17,7 @@ Software Engineering graduate from **Lahore Garrison University** with hands-on 
 - ⚙️ Love building things end-to-end: model → API → frontend
 - 🤖 Automation enthusiast — if it's repetitive, I automate it
 - 🏆 Best Award in AI & ML — DevelopersHub Corporation (2025)
+- 🟢 Currently open to **Junior ML Engineer / AI Engineer** roles
 
 ---
 
@@ -125,6 +126,10 @@ Software Engineering graduate from **Lahore Garrison University** with hands-on 
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mfahadrehan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfahadrehan&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mfahadrehan)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadrehan&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mfahadrehan)
 
 ---
 
