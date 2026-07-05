@@ -127,9 +127,9 @@ Software Engineering graduate from **Lahore Garrison University** with hands-on 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mfahadrehan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfahadrehan&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/mfahadrehan)
+[![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mfahadrehan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800)](https://github.com/mfahadrehan)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadrehan&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/mfahadrehan)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfahadrehan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)](https://github.com/mfahadrehan)
 
 ---
 
